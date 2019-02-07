@@ -11,6 +11,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  font-family: "Open Sans", sans-serif;
 }
 
 *, *::before, *::after {
@@ -31,10 +32,6 @@ body {
 
 .third {
   background-color: #e86033;
-}
-
-p {
-  font-family: "Open Sans", sans-serif;
 }
 
 .first h2 {
